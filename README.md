@@ -1,6 +1,6 @@
 
 # Construction Material Estimator
-
+Created by Radjiv Batuli, a U.S. Army veteran transitioning into software development.
 A command-line Python application that estimates concrete, aggregate, and soil quantities for common construction tasks.
 
 ## Why I Built It
